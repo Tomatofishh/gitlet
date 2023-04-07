@@ -1,0 +1,10 @@
+I prelude1.inc
++ hello.txt wug.txt
++ game.txt wug.txt
++ fang.txt notwug.txt
+> add hello.txt
+<<<
+> add game.txt
+<<<
+> add fang.txt
+<<<
